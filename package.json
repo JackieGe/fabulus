@@ -1,0 +1,23 @@
+{
+  "name": "fabulus",
+  "version": "1.0.0",
+  "description": "Adjust step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackieGe/fabulus.git"
+  },
+  "keywords": [
+    "adjustment",
+    "step"
+  ],
+  "author": "Jackie Ge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackieGe/fabulus/issues"
+  },
+  "homepage": "https://github.com/JackieGe/fabulus#readme"
+}
